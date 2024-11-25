@@ -23,7 +23,8 @@ Este projeto foi desenvolvido como parte da Avaliação Final da disciplina de *
 - Monitoramento com Zabbix.
 
 ### Diagrama de Arquitetura
-*(Adicione aqui uma imagem ou link para o diagrama de arquitetura do projeto.)*
+
+![WhatsApp Image 2024-11-24 at 8 58 08 PM](https://github.com/user-attachments/assets/f7e3ca31-2871-4b94-bf7b-b39f6ec7b550)
 
 ## Tecnologias Utilizadas
 
@@ -31,12 +32,6 @@ Este projeto foi desenvolvido como parte da Avaliação Final da disciplina de *
 - **Zabbix**: Monitoramento do ambiente.
 - **Grupos de Segurança (AWS)**: Configuração de regras de segurança.
 - **Python/Bash**: Para scripts auxiliares (se aplicável).
-
-## Próximos Passos (Conceitos B e A)
-
-- Configuração de um **Jump Server** para controle de acesso.
-- Implementação do **Wazuh** para monitoramento de segurança.
-- Desenvolvimento da infraestrutura como código utilizando **Terraform**.
 
 ## Documentação
 
