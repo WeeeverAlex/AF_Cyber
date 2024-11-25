@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido como parte da Avaliação Final da disciplina de **Cibersegurança** no Insper. O objetivo é projetar um ambiente seguro e escalável na AWS para hospedar um ambiente de desenvolvimento e testes, seguindo boas práticas de segurança. O projeto contempla a configuração de instâncias separadas para desenvolvimento e banco de dados, segurança baseada em grupos, e monitoramento do ambiente.
 
-## Funcionalidades Implementadas (Conceito C)
+## Funcionalidades Implementadas
 
 - **Instâncias Separadas**:
   - Configuração de instâncias dedicadas para o ambiente de desenvolvimento e o banco de dados, garantindo isolamento e segurança.
