@@ -38,13 +38,9 @@ Este projeto foi desenvolvido como parte da Avaliação Final da disciplina de *
 - Implementação do **Wazuh** para monitoramento de segurança.
 - Desenvolvimento da infraestrutura como código utilizando **Terraform**.
 
-## Vídeo
-
-[Clique aqui](https://youtu.be/uylXgdZXe-g)
-
 ## Documentação
 
 
 - [Relatório de Técnico.pdf](https://github.com/user-attachments/files/17895655/Relatorio.de.Tecnico.pdf)
-- [Vídeo Demonstrativo](#) *(Adicione o link para o vídeo aqui)*
+- [Vídeo Demonstrativo](https://youtu.be/uylXgdZXe-g)
 
